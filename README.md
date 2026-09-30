@@ -8,6 +8,7 @@ No setup needed. Each badge opens the file in a free online Python editor and ru
 
 | File | |
 | --- | --- |
+| [`shared.py`](./shared.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=hentetieya661-crypto/python-practice/main/shared.py) |
 | [`untitled.py`](./untitled.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=hentetieya661-crypto/python-practice/main/untitled.py) |
 | [`untitled1.py`](./untitled1.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=hentetieya661-crypto/python-practice/main/untitled1.py) |
 | [`untitled2.py`](./untitled2.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=hentetieya661-crypto/python-practice/main/untitled2.py) |
